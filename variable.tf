@@ -1,0 +1,3 @@
+variable "good morning india" {
+  
+}
